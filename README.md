@@ -1,8 +1,8 @@
 # DAS-19
-Project Details:-
-Name : Predicting Depression, Anxiety and Stress based on personality
+Project Details:-<br>
+Name : Predicting Depression, Anxiety and Stress based on personality<br>
 
-Contributor:-
+Contributor:-<br>
 
 Yash Prajapati 			Krupal Patel
 yashprajapatip20@gnu.ac.in	krupalmpatel20@gnu.ac.in
