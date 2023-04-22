@@ -4,6 +4,6 @@ Name : Predicting Depression, Anxiety and Stress based on personality<br>
 
 Contributor:-<br>
 
-Yash Prajapati 			Krupal Patel
-yashprajapatip20@gnu.ac.in	krupalmpatel20@gnu.ac.in
-yashpra1010@gmail.com		patelkrupal705@gmail.com
+<br>Yash Prajapati 			        Krupal Patel
+<br>yashprajapatip20@gnu.ac.in	krupalmpatel20@gnu.ac.in
+<br>yashpra1010@gmail.com		    patelkrupal705@gmail.com
